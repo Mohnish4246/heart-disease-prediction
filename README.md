@@ -76,10 +76,10 @@ INTERNSHIP_PROJECT/
 
 ### 1️⃣ Clone the Repository
 ```python
-git clone https://github.com/<your-username>/heart-disease-prediction.git
+git clone https://github.com/Mohnish4246/heart-disease-prediction.git
 cd heart-disease-prediction
 ```
-2️⃣ Create Virtual Environment (Python 3.11)
+### 2️⃣ Create Virtual Environment (Python 3.11)
 ```python
 py -3.11 -m venv .venv
 ```
