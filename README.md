@@ -83,9 +83,22 @@ cd heart-disease-prediction
 ```python
 py -3.11 -m venv .venv
 ```
-
+> Activate the environment:
+> Windows
 ```python
 .venv\Scripts\activate
 ```
-> Activate the environment:
-> Windows
+### 3️⃣ Install Dependencies
+```python
+pip install --upgrade pip setuptools wheel
+pip install -r requirements.txt
+```
+### Start FastAPI Backend
+```python
+python -m uvicorn main:app --reload
+```
+#### API will be available : Click on the link
+### Start Streamlit Frontend
+```python
+streamlit run 1_Heart.py
+```
