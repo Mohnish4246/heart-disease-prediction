@@ -109,3 +109,23 @@ streamlit run 1_Heart.py
 
 > Models were trained, evaluated, and saved using Scikit-learn.
 > Feature scaling and categorical encoding are handled using saved encoders and scalers.
+
+### Features
+* User-friendly Streamlit interface
+* Real-time heart disease prediction
+* Probability-based prediction output
+* Modular project structure
+* Ready for deployment and further extension
+### Future Enhancements
+* User authentication
+* Database integration for storing predictions
+* Model performance comparison dashboard
+### Author
+#### Mohnish Sharma
+#### Python | Machine Learning | FastAPI | Streamlit
+### Acknowledgements
+* Scikit-learn documentation
+* FastAPI & Streamlit community
+* Open-source ML resources
+### License
+**This project is for educational and internship purposes.**
