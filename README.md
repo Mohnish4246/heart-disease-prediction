@@ -102,3 +102,10 @@ python -m uvicorn main:app --reload
 ```python
 streamlit run 1_Heart.py
 ```
+### Machine Learning Models Used
+* Logistic Regression
+* Support Vector Machine (SVM)
+* Random Forest Classifier
+
+> Models were trained, evaluated, and saved using Scikit-learn.
+> Feature scaling and categorical encoding are handled using saved encoders and scalers.
